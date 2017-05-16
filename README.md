@@ -2,7 +2,7 @@
 Loottables-for-Epoch-1.0.6.1 and Legacy-1.0.5.1
 [for 1.0.6.1 see down below!!]
 
-=============1.0.5.1================================
+=============1.0.5.1===========================
 Installation Steps:
 Download the Archive: https://github.com/RHE24/Loottables-for-Epoch-1.0.6.1-Legacy-1.0.5.1/archive/master.zip
 
@@ -22,10 +22,10 @@ at the top of your description.ext
 
 thats it, you are done
 Now happy Looting
-=============1.0.5.1================================
+=============1.0.5.1===========================
 
 
-=============1.0.6.1================================
+=============1.0.6.1===========================
 Installation Steps:
 Download the Archive: https://github.com/RHE24/Loottables-for-Epoch-1.0.6.1-Legacy-1.0.5.1/archive/master.zip
 
@@ -45,7 +45,7 @@ at the top of your description.ext
 
 thats it, you are done
 Now happy Looting
-=============1.0.6.1================================
+=============1.0.6.1===========================
 
 
 
