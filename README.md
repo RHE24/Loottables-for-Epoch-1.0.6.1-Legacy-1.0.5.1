@@ -45,6 +45,7 @@ then go to your description.ext and paste this:
 #include "dayz_code\Configs\CfgLoot\CfgLoot.hpp"
 
 at the top of your description.ext
+then exclude or delete this: #include "\z\addons\dayz_code\Configs\CfgLoot\CfgLoot.hpp"
 
 thats it, you are done
 Now happy Looting
