@@ -23,3 +23,4 @@ thats it, you are done
 
 Now happy Looting
 
+our Post on Epoch Mod: https://epochmod.com/forum/topic/43914-mega-loot-tables-epoch-1061/
