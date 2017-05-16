@@ -13,13 +13,13 @@ set it to true.
 Like this:
 DZE_MissionLootTable = true; //Custom Loot Tables
 
-then go to you description.ext and paste this:
+then go to your description.ext and paste this:
 
 #include "MegaLoot\CfgBuildingLoot.hpp"
 
 at the top of your description.ext
 
-thats it you are done
+thats it, you are done
 
 Now happy Looting
 
